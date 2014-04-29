@@ -8,3 +8,4 @@ Docker image:
 * + build-essential
 * + ruby compiled from source
 * + git
+* + bundler
