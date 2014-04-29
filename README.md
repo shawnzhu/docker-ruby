@@ -1,9 +1,10 @@
-Ruby docker image
-==================================================
+# Ruby docker image
 
-Ruby version: 2.1.0p0
+Ruby version: 2.1.1p76
 
 Docker image:
-- based on Ubuntu precise
-- + build-essential
-- + ruby compiled from source
+
+* based on Ubuntu precise
+* + build-essential
+* + ruby compiled from source
+* + git
